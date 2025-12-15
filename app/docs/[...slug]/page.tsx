@@ -17,3 +17,8 @@ export default async function Page({
 
   return <div>root docs</div>;
 }
+
+// Example URLs:
+// /docs
+// /docs/first
+// /docs/first/second
