@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function notfound() {
-  return <div>notfound</div>;
+  return <div>Root not found</div>;
 }
