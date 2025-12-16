@@ -1,3 +1,0 @@
-const getRoutes = () => {
-  return [];
-};
